@@ -57,8 +57,4 @@ Thank you for considering contributing to AuraFlow. Your efforts help make AuraF
 
 MIT License
 
-Copyright (c) [year] [Your Name or Organization]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation
-
+Copyright (c) [year] [JacobAjiboye]
