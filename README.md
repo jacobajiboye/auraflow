@@ -37,9 +37,9 @@ We warmly welcome contributions to the AuraFlow project! Whether you're fixing b
 
 4. **Test Your Changes**: Ensure your changes do not introduce any breaking issues. Test your changes thoroughly.
 
-5. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request to the main AuraFlow repository. Provide a clear and detailed description of your changes and the benefits they bring.
+5. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request to the main AuraFlow repository. Provide a clear and detailed description of your changes and the benefits they bring.```
 
-### Reporting Bugs
+## Reporting Bugs
 
 If you find a bug in AuraFlow, please report it by opening an issue in the GitHub repository. Be sure to include:
 
@@ -48,7 +48,7 @@ If you find a bug in AuraFlow, please report it by opening an issue in the GitHu
 - Any relevant logs or error messages.
 - Your environment information (OS, browser, etc.).
 
-### Requesting Enhancements
+## Requesting Enhancements
 
 We're always looking for ways to improve AuraFlow. If you have suggestions for new features or enhancements, please open an issue to describe your ideas.
 
