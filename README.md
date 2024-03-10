@@ -17,3 +17,49 @@ To get started with AuraFlow, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourgithubusername/auraflow.git
+
+
+### CONTRIBUTING.md
+For more detailed information on configuring and using AuraFlow, please refer to the documentation. This includes comprehensive guides on the JSON Schema format, rules engine usage, and platform-specific instructions.
+
+
+### CONTRIBUTING.md
+```markdown
+# Contributing to AuraFlow
+
+We warmly welcome contributions to the AuraFlow project! Whether you're fixing bugs, adding new features, or improving documentation, your help is greatly appreciated.
+
+## How to Contribute
+
+1. **Fork the Repository**: Start by forking the AuraFlow repository to your GitHub account.
+
+2. **Create a Branch**: Create a branch in your forked repository for your contributions. It's best to use a clear and descriptive name for your branch.
+
+3. **Make Your Changes**: Implement your changes, additions, or fixes in your branch. Make sure to follow the project's coding standards and guidelines.
+
+4. **Test Your Changes**: Ensure your changes do not introduce any breaking issues. Test your changes thoroughly.
+
+5. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request to the main AuraFlow repository. Provide a clear and detailed description of your changes and the benefits they bring.
+
+## Reporting Bugs
+
+If you find a bug in AuraFlow, please report it by opening an issue in the GitHub repository. Be sure to include:
+
+- A clear and concise description of the bug.
+- Steps to reproduce the issue.
+- Any relevant logs or error messages.
+- Your environment information (OS, browser, etc.).
+
+## Requesting Enhancements
+
+We're always looking for ways to improve AuraFlow. If you have suggestions for new features or enhancements, please open an issue to describe your ideas.
+
+Thank you for considering contributing to AuraFlow. Your efforts help make AuraFlow a better project for everyone.
+
+MIT License
+
+Copyright (c) [year] [Your Name or Organization]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation
+
