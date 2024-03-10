@@ -19,7 +19,7 @@ To get started with AuraFlow, follow these steps:
    git clone https://github.com/yourgithubusername/auraflow.git
 
 
-### CONTRIBUTING.md
+### CONTRIBUTING
 For more detailed information on configuring and using AuraFlow, please refer to the documentation. This includes comprehensive guides on the JSON Schema format, rules engine usage, and platform-specific instructions.
 
 ```markdown
@@ -37,7 +37,8 @@ We warmly welcome contributions to the AuraFlow project! Whether you're fixing b
 
 4. **Test Your Changes**: Ensure your changes do not introduce any breaking issues. Test your changes thoroughly.
 
-5. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request to the main AuraFlow repository. Provide a clear and detailed description of your changes and the benefits they bring.```
+5. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request to the main AuraFlow repository. Provide a clear and detailed description of your changes and the benefits they bring.
+```
 
 ## Reporting Bugs
 
